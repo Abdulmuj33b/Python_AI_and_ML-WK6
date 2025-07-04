@@ -1,0 +1,14 @@
+How does integrating AI with IoT improve urban sustainability? Identify two challenges.
+
+Integrating AI with IoT (AIoT) in traffic management enhances sustainability by using real-time sensor data and intelligent models to optimize traffic flows.
+
+Urban Sustainability Benefits:
+- Reduced Emissions: Smart traffic lights guided by AI can reduce idle time, lowering CO₂ emissions.
+- Better Public Transport: Real-time bus tracking and route optimization lead to more efficient usage.
+- Accident Reduction: AI-based predictive analytics detect high-risk areas and suggest preemptive measures.
+
+Challenges:
+1. Data Security & Privacy: IoT devices can be hacked or spoofed. Sensitive data like location tracking needs strong encryption and ethical governance.
+2. System Interoperability: Different vendors use varying standards, making integration complex. Lack of a unified architecture can cause fragmentation and inefficiencies.
+
+AIoT holds promise for sustainable urban futures, but its deployment must consider cybersecurity and standardization frameworks.
