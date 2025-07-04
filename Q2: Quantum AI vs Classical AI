@@ -1,0 +1,19 @@
+Q2: Compare Quantum AI and classical AI in solving optimization problems. What industries could benefit most from Quantum AI?
+
+Classical AI relies on traditional computing architectures and deterministic algorithms. While effective for many tasks, it struggles with complex optimization problems due to computational limits, especially as the number of variables increases exponentially.
+
+Quantum AI, on the other hand, leverages principles like superposition and entanglement. This allows quantum computers to explore many possible solutions simultaneously. In optimization, this means:
+- Faster convergence on the best solution
+- Parallel evaluation of large combinatorial spaces
+
+Key Differences:
+- Classical AI → Sequential computation
+- Quantum AI → Probabilistic and parallel processing
+
+Industries that benefit most:
+- Pharmaceuticals: Drug molecule simulation
+- Logistics: Route optimization and fleet scheduling
+- Finance: Portfolio risk balancing
+- Energy: Grid optimization and load balancing
+
+Although still in its early stages, Quantum AI promises breakthroughs in problems that are currently computationally intractable.
