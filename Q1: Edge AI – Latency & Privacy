@@ -1,0 +1,11 @@
+**Q1: Explain how Edge AI reduces latency and enhances privacy compared to cloud-based AI. Provide a real-world example (e.g., autonomous drones).**
+
+Edge AI refers to the deployment of artificial intelligence models directly on edge devices (e.g., smartphones, drones, IoT sensors), allowing data to be processed locally rather than in remote cloud servers. This localized processing leads to two main advantages:
+
+1. **Reduced Latency**: Since data doesn’t have to be transmitted to the cloud, responses are faster. In time-critical applications like autonomous drones or self-driving cars, latency can determine success or failure. For instance, a delivery drone using Edge AI can detect obstacles and reroute in milliseconds, something impossible if it had to rely on the cloud with network delays.
+
+2. **Enhanced Privacy**: Processing data locally ensures that sensitive information (e.g., health images, location data) doesn’t leave the device, thereby reducing the risk of interception or misuse.
+
+**Real-World Example**: DJI’s autonomous drones leverage onboard AI for real-time object detection and avoidance. These drones can fly safely through forests or urban environments without waiting for cloud instructions — a necessity where connectivity is unreliable.
+
+By combining on-device computation with AI, Edge AI powers a new generation of responsive, privacy-respecting intelligent systems.
